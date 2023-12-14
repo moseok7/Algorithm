@@ -1,5 +1,6 @@
 package _4;
 
+// 10진수 값 2진수로 변환하기
 public class Main {
 
 	public static void main(String[] args) {
